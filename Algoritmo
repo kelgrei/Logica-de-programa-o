@@ -1,0 +1,49 @@
+O quê são algoritmos?
+É uma sequência de passos que resolvem um problema
+
+Exemplo: 
+- Acordei
+- Levantei da cama
+- Troquei de roupa
+- Escovei os dentes 
+- Fui a padaria
+- Tomei café
+- Escovei os dentes
+- Fui ao trabalho
+...Fim do dia
+
+O que é um pseudocódigo?
+Pseudocódigo é uma forma genérica de escrever um algoritmo, utilizando uma linguagem simples
+(nativa, ou seja, em português a quem o escreve, de forma a ser entendida por qualquer pessoa)
+
+Fluxograma: É uma ferramenta utilizada para representar graficamente o algoritmo, isto é, a sequência lógica e coerente do fluxo de dados.
+
+
+O que são variaveis:
+
+Na programção, uma variável é um objeto (uma posição, frequentemente localizada na memória), capaz de reter e representar um valor ou expressão.
+
+Tipos de variáveis: As variáveis e as constantes podem ser classificadas basicamente de quatro tipos (Numéricas, caracteres, alfanuméricos ou logicas)
+
+Exemplo: Declaração de variáveis 
+
+- Inicio
+Declara nota1: Número 
+Declara nota2: Número 
+Declara nota3: Número 
+Declara nota4: Número 
+Leia (nota1) 
+Leia (nota2) 
+Leia (nota3) 
+Leia (nota4) 
+media=(nota1+nota2+nota3+nota4)/4
+IMPRIMIR (MEDIA)
+FIM
+
+O que é uma constante: As constantes são valores imutáveis e não são alterados durante a vida útil do programa.
+
+INÍCIO 
+DECLARA pi=3,14
+DECLARA raio: número
+FIM
+
